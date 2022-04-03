@@ -1,2 +1,1 @@
-# made_ml_graphs
-MADE Machine Learning on Graphs
+# MADE Machine Learning on Graphs
