@@ -3,4 +3,5 @@
 - *Assignment 1* Introduction to Network Science [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a1_networkx_intro.ipynb)
 - *Assignment 2* Generative Network Models [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a2_gen_network_models.ipynb)
 - *Assignment 3* Centrality Measures [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a3_centrality_measures.ipynb)
-- *Assignment 4* Links analysis and structure [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a4_link_structure.ipynb)
+- *Assignment 4* Links Analysis and Structure [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a4_link_structure.ipynb)
+- *Assignment 5* Community Detection [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a5_community_detection.ipynb)
