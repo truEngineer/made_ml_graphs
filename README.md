@@ -5,3 +5,4 @@
 - *Assignment 3* Centrality Measures [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a3_centrality_measures.ipynb)
 - *Assignment 4* Links Analysis and Structure [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a4_link_structure.ipynb)
 - *Assignment 5* Community Detection [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a5_community_detection.ipynb)
+- *Assignment 6* Diffusions and Epidemics [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a6_diffusions_epidemics.ipynb)
