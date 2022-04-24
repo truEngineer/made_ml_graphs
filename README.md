@@ -7,3 +7,4 @@
 - *Assignment 5* Community Detection [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a5_community_detection.ipynb)
 - *Assignment 6* Diffusions and Epidemics [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a6_diffusions_epidemics.ipynb)
 - *Assignment 7* Influence Propagation and Agent Based Models [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a7_influence_agents.ipynb)
+- *Assignment 8* Node Classification [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a8_node_classification.ipynb)
