@@ -2,9 +2,11 @@
 
 - *Assignment 1* Introduction to Network Science [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a1_networkx_intro.ipynb)
    
-   Reading a graph from a file, Directed graph, Bacis statistics, Graph layout, Nodes visualization, Edges visualization (weighted graphs), Power law CDF, Power law PPF, Estimation of alpha with linear binning, Degree distribution, MLE of alpha in Power law.
+  Reading a graph from a file, Directed graph, Bacis statistics, Graph layout, Nodes visualization, Edges visualization (weighted graphs), Power law CDF, Power law PPF, Estimation of alpha with linear binning, Degree distribution, MLE of alpha in Power law.
    
 - *Assignment 2* Generative Network Models [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a2_gen_network_models.ipynb)
+
+  Erdos Renyi model, Degree distribution of random vs real networks, Component sizes, Clustering coefficients of random vs real networks, Snobbish Networks, Watts-Strogatz model, Average path length in Watts-Strogatz, Barabasi-Albert model, Degree dynamics in Barabasi-Albert model.
 
 - *Assignment 3* Centrality Measures [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a3_centrality_measures.ipynb)
 
