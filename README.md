@@ -18,7 +18,7 @@
 
 - *Assignment 5* Community Detection [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a5_community_detection.ipynb)
 
-  Girvan Newman algorithm, Modularity, Eigenvalues of graph Laplacian, Spectral clustering, Laplacian Eigenmaps, Agglomerative clustering, Louvain method, Ego-Splitting, Label propogation. 
+  Girvan Newman algorithm, Modularity, Eigenvalues of graph Laplacian, Spectral clustering, Laplacian Eigenmaps, Agglomerative clustering, Louvain method, Ego-Splitting, Label propagation. 
 
 - *Assignment 6* Diffusions and Epidemics [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a6_diffusions_epidemics.ipynb)
 
