@@ -18,7 +18,11 @@
 
 - *Assignment 5* Community Detection [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a5_community_detection.ipynb)
 
+  Girvan Newman algorithm, Modularity, Eigenvalues of graph Laplacian, Spectral clustering, Laplacian Eigenmaps, Agglomerative clustering, Louvain method, Ego-Splitting, Label propogation. 
+
 - *Assignment 6* Diffusions and Epidemics [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a6_diffusions_epidemics.ipynb)
+
+  Biased random walks, flow graphs, Diffusions on networks, SI model, SIS model, SIR model, SIRS model, SIS model on networks, SIRS model on networks.
 
 - *Assignment 7* Influence Propagation and Agent Based Models [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a7_influence_agents.ipynb)
 
