@@ -26,6 +26,10 @@
 
 - *Assignment 7* Influence Propagation and Agent Based Models [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a7_influence_agents.ipynb)
 
+  Linear threshold model, Independent cascade model, Greedy influence maximization, Schelling's segregation model, Game of life model.
+
 - *Assignment 8* Node Classification [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a8_node_classification.ipynb)
+
+  Assortativity analysis, Relational Neighbor classifier, Label propagation by random walks, Tikhonov regularization on graphs, SVD node embeddings, DeepWalk node embeddings.
 
 - *Assignment 9* Node Embedding [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a9_node_embedding.ipynb)
