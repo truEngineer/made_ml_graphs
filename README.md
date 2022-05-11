@@ -33,3 +33,5 @@
   Assortativity analysis, Relational Neighbor classifier, Label propagation by random walks, Tikhonov regularization on graphs, SVD node embeddings, DeepWalk node embeddings.
 
 - *Assignment 9* Node Embedding [.ipynb](https://github.com/truEngineer/made_ml_graphs/blob/main/a9_node_embedding.ipynb)
+
+  CORA dataset, Node embedding visualization, Test set size dependency, Embedding dimensionality importance, Node2Vec.
